@@ -1,0 +1,1 @@
+  -LE:/11468/2022/cs_tuxing/homework/ch01/lib  -Wl,-Bstatic -lfreeglut -Wl,-Bdynamic -lopengl32 -Wl,-Bstatic -lglu32 -Wl,-Bdynamic -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
