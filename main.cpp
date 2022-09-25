@@ -1,3 +1,8 @@
+/*
+ * hxt,2022/9/25
+ * github: https://github.com/hengxt/cs_graphics
+ * */
+
 #include <GL/glut.h>
 #include<cmath>
 
