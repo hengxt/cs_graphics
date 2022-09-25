@@ -1,7 +1,7 @@
 # cs_graphics
 计算机图形学作业
 
-## 开放环境
+## 开发环境
 - mingw
 - clion
 - opengl
